@@ -2,6 +2,7 @@
  * Generates a TOML configuration file from form data
  * Replaces all placeholders and embeds images as base64
  */
+ 
 
 interface FormData {
   personalInfo: {
